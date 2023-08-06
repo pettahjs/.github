@@ -7,10 +7,10 @@
   </a>
 </p>
 <h1 align="center">
-  Pettah
+  Pettah.js
 </h1>
 <p align="center">
-  Pettah is a beginner friendly eCommerce backend made with Next.js, that will help developers to create digital commerce applications easily.
+  Pettah.js is a beginner friendly eCommerce backend made with Next.js, that will help developers to create digital commerce applications easily.
 </p>
 <!-- <p align="center">
   <a href="https://www.producthunt.com/posts/medusa">
